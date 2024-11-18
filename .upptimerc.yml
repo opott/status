@@ -5,6 +5,8 @@ repo: status
 sites:
   - name: Portfolio
     url: https://opott.uk
+  - name: Status Page
+    url: https://status.opott.uk
   - name: CourseNotes
     url: https://notes.opott.uk
 
@@ -17,3 +19,6 @@ status-website:
   navbar:
     - title: Home
       href: https://opott.uk
+
+assignees:
+  - opott
