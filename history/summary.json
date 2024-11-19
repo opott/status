@@ -4,19 +4,19 @@
     "url": "https://opott.uk",
     "icon": "https://icons.duckduckgo.com/ip3/opott.uk.ico",
     "slug": "splash",
-    "status": "down",
-    "uptime": "8.42%",
-    "uptimeDay": "8.42%",
-    "uptimeWeek": "8.42%",
-    "uptimeMonth": "8.42%",
-    "uptimeYear": "8.42%",
-    "time": 560,
-    "timeDay": 560,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "status": "up",
+    "uptime": "1.20%",
+    "uptimeDay": "1.20%",
+    "uptimeWeek": "1.20%",
+    "uptimeMonth": "1.20%",
+    "uptimeYear": "1.20%",
+    "time": 583,
+    "timeDay": 583,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2024-11-19": 0
+      "2024-11-19": 7
     }
   },
   {
