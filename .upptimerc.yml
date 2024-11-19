@@ -9,8 +9,6 @@ sites:
     url: https://status.opott.uk
   - name: CourseNotes
     url: https://notes.opott.uk
-  - name: Hack Club Christmas Card
-    url: https://hc-christmas.opott.uk
 
 status-website:
   cname: status.opott.uk
