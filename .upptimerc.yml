@@ -3,8 +3,10 @@ owner: opott
 repo: status
 
 sites:
-  - name: Portfolio
+  - name: Splash
     url: https://opott.uk
+  - name: Portfolio
+    url: https://portfolio.opott.uk
   - name: Status Page
     url: https://status.opott.uk
   - name: CourseNotes
