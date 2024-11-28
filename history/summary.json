@@ -4,10 +4,10 @@
     "url": "https://opott.uk",
     "icon": "https://icons.duckduckgo.com/ip3/opott.uk.ico",
     "slug": "splash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 568,
@@ -16,6 +16,7 @@
     "timeMonth": 568,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2024-11-28": 1,
       "2024-11-19": 7
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://portfolio.opott.uk",
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.opott.uk.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 573,
     "timeMonth": 526,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-28": 0
+    }
   },
   {
     "name": "Status Page",
@@ -60,7 +63,7 @@
     "url": "https://notes.opott.uk",
     "icon": "https://icons.duckduckgo.com/ip3/notes.opott.uk.ico",
     "slug": "course-notes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +74,8 @@
     "timeWeek": 608,
     "timeMonth": 551,
     "timeYear": 551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-28": 0
+    }
   }
 ]
