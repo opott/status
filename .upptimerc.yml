@@ -7,6 +7,10 @@ sites:
     url: https://opott.uk
   - name: Portfolio
     url: https://portfolio.opott.uk
+  - name: Blog
+    url: https://blog.opott.uk
+  - name: Photography Site
+    url: https://photo.opott.uk
   - name: Status Page
     url: https://status.opott.uk
   - name: CourseNotes
