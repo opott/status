@@ -4,9 +4,9 @@
     "url": "https://opott.uk",
     "icon": "https://icons.duckduckgo.com/ip3/opott.uk.ico",
     "slug": "splash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 571,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2025-01-12": 0,
       "2025-01-04": 18,
       "2024-11-28": 17,
       "2024-11-19": 7
@@ -26,9 +27,9 @@
     "url": "https://portfolio.opott.uk",
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.opott.uk.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -38,6 +39,7 @@
     "timeMonth": 564,
     "timeYear": 558,
     "dailyMinutesDown": {
+      "2025-01-12": 0,
       "2025-01-04": 18,
       "2024-11-28": 17
     }
@@ -101,7 +103,7 @@
     "url": "https://notes.opott.uk",
     "icon": "https://icons.duckduckgo.com/ip3/notes.opott.uk.ico",
     "slug": "course-notes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -113,6 +115,7 @@
     "timeMonth": 542,
     "timeYear": 537,
     "dailyMinutesDown": {
+      "2025-01-12": 0,
       "2025-01-04": 18,
       "2024-11-28": 17
     }
