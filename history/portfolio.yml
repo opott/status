@@ -1,7 +1,7 @@
 url: https://portfolio.opott.uk
-status: up
-code: 200
-responseTime: 420
-lastUpdated: 2025-08-09T23:16:38.616Z
+status: down
+code: 502
+responseTime: 695
+lastUpdated: 2025-08-10T02:06:14.948Z
 startTime: 2024-11-18T19:34:20.998Z
 generator: Upptime <https://github.com/upptime/upptime>
